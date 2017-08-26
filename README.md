@@ -11,6 +11,8 @@
 <p>Java 8 SE</p>
 <p>Git</p>
 
+# To run execute in console from the root of the project ./run.sh
+
 # Example output
 
 											O  O            
