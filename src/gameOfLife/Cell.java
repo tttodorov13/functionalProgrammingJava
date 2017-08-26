@@ -1,4 +1,4 @@
-package GameOfLife;
+package gameOfLife;
 
 /**
  * Structure of cell. Contains coordinates x and y.

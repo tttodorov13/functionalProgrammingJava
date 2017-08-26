@@ -1,4 +1,4 @@
-package GameOfLife;
+package gameOfLife;
 
 import sun.applet.AppletIllegalArgumentException;
 

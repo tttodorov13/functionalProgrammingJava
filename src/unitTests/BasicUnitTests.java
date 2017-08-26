@@ -1,4 +1,4 @@
-package UnitTests;
+package unitTests;
 
 import static org.junit.Assert.*;
 
@@ -6,8 +6,8 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import GameOfLife.Board;
-import GameOfLife.Cell;
+import gameOfLife.Board;
+import gameOfLife.Cell;
 
 /**
  * Basic Unit Tests

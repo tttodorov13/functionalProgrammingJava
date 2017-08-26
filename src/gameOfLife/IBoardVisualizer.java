@@ -1,4 +1,4 @@
-package GameOfLife;
+package gameOfLife;
 
 /**
  * Interface to visual implementation of game.
