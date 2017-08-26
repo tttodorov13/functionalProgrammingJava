@@ -3,7 +3,7 @@ package GameOfLife;
 /**
  * Structure of cell. Contains coordinates x and y.
  * 
- * @author Artur
+ * @author toshko.todorov
  * 
  */
 public final class Cell {

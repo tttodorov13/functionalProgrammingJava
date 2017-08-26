@@ -4,8 +4,8 @@ import sun.applet.AppletIllegalArgumentException;
 
 /**
  * Game implemented in console form.
- * 
- * @author Artur
+ *
+ * @author toshko.todorov
  * 
  */
 public class BoardConsoleVisualizer extends Board implements IBoardVisualizer {

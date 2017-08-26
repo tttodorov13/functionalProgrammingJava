@@ -5,7 +5,7 @@ import java.util.Random;
 /**
  * Main class of Game of Life.
  * 
- * @author Artur
+ * @author toshko.todorov
  * 
  */
 public class Main {

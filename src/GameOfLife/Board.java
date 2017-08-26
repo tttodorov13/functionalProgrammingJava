@@ -4,8 +4,8 @@ import java.util.*;
 
 /**
  * Board. Place where game happens.
- * 
- * @author Artur
+ *
+ * @author toshko.todorov
  * 
  */
 public class Board {

@@ -12,7 +12,7 @@ import GameOfLife.Cell;
 /**
  * Basic Unit Tests
  * 
- * @author Artur
+ * @author toshko.todorov
  * 
  */
 public class BasicUnitTests {

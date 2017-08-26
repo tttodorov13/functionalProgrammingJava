@@ -3,7 +3,7 @@ package GameOfLife;
 /**
  * Interface to visual implementation of game.
  * 
- * @author Artur
+ * @author toshko.todorov
  * 
  */
 public interface IBoardVisualizer {
