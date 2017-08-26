@@ -1,5 +1,5 @@
-# functionalProgrammingHaskell
-<h1>Functional Programming Haskell</h1>
+# functionalProgrammingJava
+<h1>Functional Programming Java</h1>
 
 <h2>Course project at Sofia University "St. Kliment Ohridski", Faculty of Mathematics and Informatics.</h2>
 
