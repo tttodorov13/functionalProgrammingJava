@@ -8,7 +8,6 @@
 
 <h2>Prerequisites:</h2>
 <p>Linux OS</p>
-<p>Java 8 SE</p>
 <p>Git</p>
 
 # Example output
