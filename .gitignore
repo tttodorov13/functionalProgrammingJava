@@ -1,5 +1,7 @@
 /.classpath
 /.idea
 /out/
+/gameOfLife/
 /gameOfLife.iml
+/gameOfLife.jar
 /.project
